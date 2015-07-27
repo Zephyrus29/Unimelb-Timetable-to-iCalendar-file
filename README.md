@@ -7,7 +7,9 @@ To use it, go to the timetable page on the student portal, press the expand all 
 Very simple program and should work for 2015 S2 by default. For other semesters, the semester start and end dates will need to be changed. These are hard coded in.
 
 Known issues: Does not work if the subject has two words in the class type, such as a clinical placement. 
+
               Assumes subject runs for the whole semester.
 
 To do: Make a GUI.
+
        Auto update semester times.
