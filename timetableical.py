@@ -22,9 +22,9 @@ def idgen(size):
 	
 inputfilename=raw_input("Enter the input file name: ")
 outfilename=raw_input("Enter the output file name: ") +".ics"
-semesterstartdate="201507"
-semesterstartday=27
-semesterenddate="20151023T220000Z"
+semesterstartdate="201602"
+semesterenddate="20160531T220000Z"
+semesterstartday=22
 classtypes=['Workshop','Lecture','Tutorial','Seminar','Practical','Bump-in','Bump-out','Problem-based','Filmmaking','Performance','Rehearsal','Screening','Studio']
 input =open (inputfilename, "r")
 var = input.readline()
